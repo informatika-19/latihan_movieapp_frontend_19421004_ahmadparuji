@@ -1,0 +1,15 @@
+{
+  "name": "aji",
+  "version": "1.0.0",
+  "description": "A Quasar Framework app",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmad paruji",
+  "license": "ISC"
+}
